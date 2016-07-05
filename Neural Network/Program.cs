@@ -10,7 +10,11 @@ namespace Neural_Network
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine("Master output");
+
+            Console.WriteLine("Second branch");
+
             Console.ReadKey();
         }
     }
