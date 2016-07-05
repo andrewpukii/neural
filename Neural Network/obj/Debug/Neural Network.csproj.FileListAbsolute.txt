@@ -1,0 +1,1 @@
+c:\users\andrew\documents\visual studio 2015\Projects\Neural Network\Neural Network\bin\Debug\Neural Network.exe.config
