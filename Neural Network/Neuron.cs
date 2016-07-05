@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Neural_Network
 {
-    class Neuron
+    abstract class Neuron
     {
     }
 }
